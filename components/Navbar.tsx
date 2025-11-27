@@ -40,7 +40,7 @@ const Navbar: React.FC = () => {
           <div className="flex-shrink-0 cursor-pointer">
             <a href="#home" onClick={(e) => handleNavClick(e, '#home')} className="block flex items-center">
               <img 
-                src="https://i.postimg.cc/5tgcFGQ9/美团闪购_3x.png" 
+                src="https://i.postimg.cc/Kv191RBH/shang-jia-duan-she-ji-zu-3x.png" 
                 alt="美团闪购" 
                 className="h-7 w-auto object-contain"
               />
