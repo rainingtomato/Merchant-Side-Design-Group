@@ -21,7 +21,7 @@ const ProfessionalCore: React.FC = () => {
       desc: '开箱即用的模块化资源，提升开发效率，敏捷响应业务迭代。',
       buttons: [
         { label: '查看详情', url: 'https://roo.sankuai.com/v2/standard/#/BPC/react/roo/TableNew' } 
-    ],
+    ]},
     { 
       icon: <PenTool />, 
       title: '每日审美训练', 
