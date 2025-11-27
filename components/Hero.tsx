@@ -12,9 +12,6 @@ const Hero: React.FC = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.2 }}
         >
-          <span className="inline-block py-1 px-3 rounded-full bg-blue-50/50 border border-blue-100 text-blue-600 text-sm font-semibold mb-6 backdrop-blur-sm">
-            2026 设计愿景
-          </span>
         </motion.div>
 
         <motion.h1
