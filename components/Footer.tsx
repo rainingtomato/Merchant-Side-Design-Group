@@ -6,7 +6,7 @@ const Footer: React.FC = () => {
       <div className="max-w-7xl mx-auto px-6 lg:px-12 flex flex-col md:flex-row justify-between items-center gap-6">
         <div className="text-center md:text-left flex flex-col items-center md:items-start">
           <img 
-            src="https://i.postimg.cc/5tgcFGQ9/美团闪购_3x.png" 
+            src="https://i.postimg.cc/Kv191RBH/shang-jia-duan-she-ji-zu-3x.png" 
             alt="美团闪购" 
             className="h-5 w-auto object-contain mb-2"
           />
